@@ -2,7 +2,7 @@ class Salticidae < Formula
   desc "Minimal C++ asynchronous network library for distributed systems"
   homepage "https://github.com/Determinant/salticidae"
   url "https://github.com/Determinant/salticidae/archive/v0.3.0.tar.gz"
-  sha256 "45cc1d02654dfda485362d257887d88d028150e612f45c7dc5d24ba6cee39c7a"
+  sha256 "6486949a3cdee244ab11a832ee1e534a8113f04d37c7c629a75cebbc1494c023"
 
   depends_on "cmake" => :build
   depends_on "make" => :build
